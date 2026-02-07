@@ -10,6 +10,7 @@ An adaptive Chemistry tutoring applications that personalizes questions based on
 - SQLite database backend
 
 ## Installation (Local Build)
+
 pip install -r requirements.txt
 python chemistry_its.py
 
