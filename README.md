@@ -12,6 +12,7 @@ An adaptive Chemistry tutoring applications that personalizes questions based on
 ## Installation (Local Build)
 
 pip install -r requirements.txt
+
 python chemistry_its.py
 
 ## Run without Python
